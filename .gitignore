@@ -1,0 +1,5 @@
+# Ignorer les fichiers liés aux schémas et à la gestion des données locales
+xcshareddata/
+xcdebugger/
+xcschememanagement.plist
+
